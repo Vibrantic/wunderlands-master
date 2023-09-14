@@ -3,12 +3,18 @@
   <br /><strong>The only Mod you need for Minetest!</strong>
   <br />
 </h1>
+
 <h2 align="center" style="display: block; font-size:1em; font-weight: italic; margin-block-start: 1em; margin-block-end: 1em;">
-  <br /><p style="font-size:5px;"><i>Copyright (C) 2023 Wunderlands</i></p>
-  <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
+  <br /><a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
+  <p style="font-size:1em;"><i>Copyright (C) 2023 Wunderlands</i></p>
 </h2>
 
-## What is Wunderlands all about?
+<br />
+
+<h2 align="center" style="display: block; font-size:1em; font-weight: italic; margin-block-start: 1em; margin-block-end: 1em;">
+<span style="color:yellow;font-weight:700;font-size:20px">What is Wunderlands all about?</span>
+</h2>
+
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
 This expansive modification breathes new life into your Minetest adventures by introducing a rich array of features. 
 Dive into a diverse selection of biomes, each teeming with unique flora and fauna. 
