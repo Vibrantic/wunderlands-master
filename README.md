@@ -1,9 +1,8 @@
-"Wunderlands" - the only Mod you need for Minetest!
-==========================
+# "Wunderlands" - the only Mod you need for Minetest!
+
 Copyright (C) 2023 Wunderlands, www.wunderlands.de
 
-Description
--------------------------
+## What is Wunderlands all about?
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
 This expansive modification breathes new life into your Minetest adventures by introducing a rich array of features. 
 Dive into a diverse selection of biomes, each teeming with unique flora and fauna. 
@@ -21,30 +20,50 @@ Engaging Mechanics: Challenge your skills with new gameplay elements that add de
 Endless Exploration: With so much to see and do, you'll never run out of things to explore and create.
 Wunderlands Mod for Minetest is your passport to a world of adventure, creativity, and endless surprises. Dive in and start your journey today!
 
-Development Cycle
--------------------------
+
+
+
+## Development Cycle
 There are three main git branches of Wunderlands:
 * `main`: stable branch, meant to be ran by players and on servers. Focused on high stabiliy.
 * `testing`: beta branch, for testing new updates, finding bugs, and eliminating them before merging into the main branch.
 * `unstable`: alpha branch, a staging branch for additions to Wunderlands. For new code, updates, and fixes. Changes and commits should go here.
-
-Minetest Engine Requirements
---------------------------
+## Minetest Engine Requirement
 Minetest engine version 5.2.0 or greater is currently recommended to run this game.
-
-Credits and Acknowledgements
--------------------------
-Designed by Goran Babic (Vibrantic) <info@wunderlands.de>
-Thank you to everyone who has contributed to this project, mods, and the awesome MeseCraft community. 
+## Credits and Acknowledgements
+Designed by Goran Babic (Vibrantic) 
+If you have any questions you can read the FAQ or email me at <info@wunderlands.de>.
 
 Also, to the Minetest community, core developers, and modders. 
 This game was built using the Minetest game engine, minetest_game, and the mods of many others.
-
-More credits coming soon.
-
-License
---------------------------
-MIT License
+ - [Minetest Website](https://www.minetest.net/)
+ - [Minetest GitHub](https://github.com/minetest)
 
 
+This README was inspired by:
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+Thank you to everyone who has contributed to this project, mods, and the awesome Wunderlands and Minetest community. 
+
+## Authors
+
+- [@vibrantic](https://www.github.com/vibrantic)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
 
