@@ -2,10 +2,12 @@
 <a name="WUNDERLANDS" href="https://www.wunderlands.de"><img align="center" src="https://github.com/Vibrantic/wunderlands-master/blob/main/WUNDERLANDS.png" alt="WUNDERLANDS LOGO" style="width:100%;height:100%"/></a>
   <br /><br /><strong>The only Mod you need for Minetest!</strong>
   <br />
+</h1>
+<h2>
   <br /><p style="font-size:5px;"><i>Copyright (C) 2023 Wunderlands</i></p>
   <br />
     <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
-</h1>
+</h2>
 
 ## What is Wunderlands all about?
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
