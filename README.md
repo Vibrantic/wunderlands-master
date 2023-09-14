@@ -4,7 +4,7 @@
   <br />
   <br /><p><i>Copyright (C) 2023 Wunderlands</i>
   <br />
-    <p><www.wunderlands.de</p>
+    <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
 </h1>
 
 ## What is Wunderlands all about?
