@@ -1,4 +1,4 @@
-"Wunderlands Mod for Minetest"
+"Wunderlands the only Mod you need for Minetest"
 
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
 This expansive modification breathes new life into your Minetest adventures by introducing a rich array of features. 
