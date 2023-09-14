@@ -1,7 +1,7 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 <a name="WUNDERLANDS" href="https://www.wunderlands.de"><img align="center" src="https://github.com/Vibrantic/wunderlands-master/blob/main/WUNDERLANDS.png" alt="WUNDERLANDS LOGO" style="width:100%;height:100%"/></a>
   <br /><br /><strong>The only Mod you need for Minetest!</strong>
-  <br />**Copyright (C) 2023 Wunderlands, www.wunderlands.de**
+  <br /> __Copyright (C) 2023 Wunderlands, www.wunderlands.de__
 </h1>
 
 ## What is Wunderlands all about?
