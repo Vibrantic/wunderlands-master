@@ -2,7 +2,7 @@
 <a name="WUNDERLANDS" href="https://www.wunderlands.de"><img align="center" src="https://github.com/Vibrantic/wunderlands-master/blob/main/WUNDERLANDS.png" alt="WUNDERLANDS LOGO" style="width:100%;height:100%"/></a>
   <br /><br /><strong>The only Mod you need for Minetest!</strong>
   <br />
-  <br /><p><i>Copyright (C) 2023 Wunderlands</i>
+  <br /><p style="font-size:14px;"><i>Copyright (C) 2023 Wunderlands</i></p>
   <br />
     <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
 </h1>
