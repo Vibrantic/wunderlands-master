@@ -3,10 +3,9 @@
   <br /><strong>The only Mod you need for Minetest!</strong>
   <br />
 </h1>
-<h2 align="center" style="display: block; font-size:1.5em; font-weight: italic; margin-block-start: 1em; margin-block-end: 1em;">
+<h2 align="center" style="display: block; font-size:1em; font-weight: italic; margin-block-start: 1em; margin-block-end: 1em;">
   <br /><p style="font-size:5px;"><i>Copyright (C) 2023 Wunderlands</i></p>
-  <br />
-    <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
+  <a name="Wunderlands Site" href="https://www.wunderlands.de" align="center">www.wunderlands.de</a>
 </h2>
 
 ## What is Wunderlands all about?
