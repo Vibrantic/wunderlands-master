@@ -1,8 +1,8 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
 <a name="WUNDERLANDS" href="https://www.wunderlands.de"><img align="center" src="https://github.com/Vibrantic/wunderlands-master/blob/main/WUNDERLANDS.png" alt="WUNDERLANDS LOGO" style="width:100%;height:100%"/></a>
   <br /><br /><strong>The only Mod you need for Minetest!</strong>
+  <italic>Copyright (C) 2023 Wunderlands, www.wunderlands.de</italic>
 </h1>
-Copyright (C) 2023 Wunderlands, www.wunderlands.de
 
 ## What is Wunderlands all about?
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
