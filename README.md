@@ -25,6 +25,9 @@
     <td><img alt="Static Badge" src="https://img.shields.io/badge/language-lua-blue"></td>
     <td colspan="2"><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Vibrantic/wunderlands-master"></td>
   </tr>
+  <tr>
+    <td><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Vibrantic/wunderlands-master/main"></td>
+  </tr>
 </table>
 
 <br />
