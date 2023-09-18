@@ -32,12 +32,12 @@
 
 <br />
 
-[![Latest release](https://img.shields.io/github/v/release/aregtech/areg-sdk?label=Latest%20release&style=social)](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
+<!--[![Latest release](https://img.shields.io/github/v/release/aregtech/areg-sdk?label=Latest%20release&style=social)](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
 [![GitHub commits](https://img.shields.io/github/commits-since/aregtech/areg-sdk/v1.5.0.svg?style=social)](https://GitHub.com/aregtech/areg-sdk/commit/)
 [![Stars](https://img.shields.io/github/stars/aregtech/areg-sdk?style=social)](https://github.com/aregtech/areg-sdk/stargazers)
 [![Fork](https://img.shields.io/github/forks/aregtech/areg-sdk?style=social)](https://github.com/aregtech/areg-sdk/network/members)
 [![Watchers](https://img.shields.io/github/watchers/aregtech/areg-sdk?style=social)](https://github.com/aregtech/areg-sdk/watchers)
-[![Wiki Pages](https://img.shields.io/badge/AREG%20Wiki%20Pages-8-brightgreen?style=social&logo=wikipedia)](https://github.com/aregtech/areg-sdk/wiki/)
+[![Wiki Pages](https://img.shields.io/badge/AREG%20Wiki%20Pages-8-brightgreen?style=social&logo=wikipedia)](https://github.com/aregtech/areg-sdk/wiki/)-->
 
 <br />
 
@@ -45,7 +45,7 @@
 What is Wunderlands all about?
 </h2>
 
-[![Static Badge](https://img.shields.io/badge/What%20is%20Wunderlands%20all%20about%3F?style=flat)]
+<!--[![Static Badge](https://img.shields.io/badge/What%20is%20Wunderlands%20all%20about%3F?style=flat)]-->
 
 Explore a world of wonder and endless possibilities with the Wunderlands Mod for Minetest. 
 This expansive modification breathes new life into your Minetest adventures by introducing a rich array of features. 
