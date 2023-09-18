@@ -73,25 +73,33 @@ There are three main git branches of Wunderlands:
 * `main`: stable branch, meant to be run by players and on servers. Focused on high stability.
 * `testing`: beta branch, for testing new updates, finding bugs, and eliminating them before merging into the main branch. **(Coming soon!)**
 * `unstable`: alpha branch, a staging branch for additions to Wunderlands. For new code, updates, and fixes. Changes and commits should go here. **(Coming soon!)**
+<br />
+
 ## Minetest Engine Requirement
+
 Minetest engine version 5.2.0 or greater is currently recommended to run this game.
+<br />
+
 ## Credits and Acknowledgements
-Designed by Goran Babic (Vibrantic) 
-If you have any questions you can read the FAQ or email me at <info@wunderlands.de>.
 
 A huge thanks to the Minetest community, core developers, and modders. 
 This game was built using the Minetest game engine, minetest_game, and the mods of many others.
  - [Minetest Website](https://www.minetest.net/)
  - [Minetest GitHub](https://github.com/minetest)
-
+<br />
 
 This README was inspired by:
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+<br />
 
 Thank you to everyone who has contributed to this project, the mods, and the awesome Wunderlands and Minetest community. 
+<br />
+
+Designed by myself Goran Babic (Vibrantic). <br />
+If you have any questions you can read the FAQ or email me at <info@wunderlands.de>.
+<br />
 
 ## Authors
 
@@ -103,12 +111,5 @@ Thank you to everyone who has contributed to this project, the mods, and the awe
 
 
 ## FAQ
-
-#### Question 1
-
-Answer 1
-
-#### Question 2
-
-Answer 2
+**Coming Soon!**
 
