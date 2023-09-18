@@ -27,6 +27,10 @@
   </tr>
   <tr>
     <td><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/Vibrantic/wunderlands-master/main"></td>
+    <td><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/Vibrantic/wunderlands-master">
+    <td colspan="2"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vibrantic/wunderlands-master">
+</td>
+</td>
   </tr>
 </table>
 
