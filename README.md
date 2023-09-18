@@ -18,12 +18,12 @@
     <td><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vibrantic/wunderlands-master/total"></td>
     <td><img alt="GitHub" src="https://img.shields.io/github/license/Vibrantic/wunderlands-master"></td>
     <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vibrantic/wunderlands-master"></td>
-    <td><a href="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml" alt="CodeQL"><img src="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL"/></a></td>
+    <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vibrantic/wunderlands-master"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Solution-C++17-blue.svg?style=flat&logo=c%2B%2B&logoColor=b0c0c0&labelColor=363D44" alt="C++ solution"/></td>
-    <td><img src="https://img.shields.io/badge/OS-linux%20%7C%20windows-blue??style=flat&logo=Linux&logoColor=b0c0c0&labelColor=363D44" alt="Operating systems"/></td>
-    <td colspan="2"><img src="https://img.shields.io/badge/CPU-x86%20%7C%20x86__64%20%7C%20arm%20%7C%20aarch64-blue?style=flat&logo=amd&logoColor=b0c0c0&labelColor=363D44" alt="CPU Architect"/></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/version-0.0-brightgreen"></td>
+    <td><img alt="Static Badge" src="https://img.shields.io/badge/language-lua-blue"></td>
+    <td colspan="2"><img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/Vibrantic/wunderlands-master"></td>
   </tr>
 </table>
 
