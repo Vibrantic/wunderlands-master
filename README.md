@@ -15,9 +15,9 @@
 <h1 align="center">  Project Status  </h1>
 <table class="no-border" align="center">
   <tr>
-    <td><a href="https://github.com/aregtech/areg-sdk/actions/workflows/cmake.yml" alt="CMake"><img src="https://github.com/aregtech/areg-sdk/actions/workflows/cmake.yml/badge.svg" alt="CMake build"/></a></td>
-    <td><a href="https://github.com/aregtech/areg-sdk/actions/workflows/c-cpp.yml" alt="C/C++"><img src="https://github.com/aregtech/areg-sdk/actions/workflows/c-cpp.yml/badge.svg" alt="C/C++ Make"/></a></td>
-    <td><a href="https://github.com/aregtech/areg-sdk/actions/workflows/msbuild.yml" alt="MS Build"><img src="https://github.com/aregtech/areg-sdk/actions/workflows/msbuild.yml/badge.svg" alt="MS Build"/></a></td>
+    <td><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vibrantic/wunderlands-master/total"></td>
+    <td><img alt="GitHub" src="https://img.shields.io/github/license/Vibrantic/wunderlands-master"></td>
+    <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vibrantic/wunderlands-master"></td>
     <td><a href="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml" alt="CodeQL"><img src="https://github.com/aregtech/areg-sdk/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL"/></a></td>
   </tr>
   <tr>
