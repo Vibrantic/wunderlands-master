@@ -76,7 +76,7 @@ Minetest engine version 5.2.0 or greater is currently recommended to run this ga
 Designed by Goran Babic (Vibrantic) 
 If you have any questions you can read the FAQ or email me at <info@wunderlands.de>.
 
-Also, to the Minetest community, core developers, and modders. 
+A huge thanks to the Minetest community, core developers, and modders. 
 This game was built using the Minetest game engine, minetest_game, and the mods of many others.
  - [Minetest Website](https://www.minetest.net/)
  - [Minetest GitHub](https://github.com/minetest)
