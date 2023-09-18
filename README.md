@@ -16,7 +16,6 @@
 <table class="no-border" align="center">
   <tr>
     <td><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Vibrantic/wunderlands-master/total"></td>
-    <td><img alt="GitHub" src="https://img.shields.io/github/license/Vibrantic/wunderlands-master"></td>
     <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vibrantic/wunderlands-master"></td>
     <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vibrantic/wunderlands-master"></td>
   </tr>
