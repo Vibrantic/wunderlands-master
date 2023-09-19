@@ -76,6 +76,7 @@ There are three main git branches of Wunderlands:
 * `main`: stable branch, meant to be run by players and on servers. Focused on high stability.
 * `dev`: development branch, for testing new updates, finding bugs, and eliminating them before merging into the main branch.
 * `unstable`: experimental branch, a staging branch for additions to Wunderlands. For new code, updates, and fixes. Changes and commits should go here.
+* `hotfix`: hotfix branch, here are the fast patches that are run immediately if something needs a quick fix.
 <br />
 
 ## Minetest Engine Requirement
