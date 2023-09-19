@@ -58,7 +58,7 @@ Collect exotic items and harness the power of new blocks to craft, build, and cr
 Wunderlands doesn't stop at just cosmetic enhancements. Experience fresh gameplay mechanics that will challenge and inspire you. 
 Whether you're a builder, explorer, or adventurer, this mod has something for everyone.
 
-Key Features:
+⭐ Key Features:
 
 **New Biomes:** Discover captivating landscapes, from lush forests to desolate deserts and everything in between.<br />
 **Unique Blocks:** Build with style using various fresh building materials and decorative blocks.<br />
@@ -67,24 +67,24 @@ Key Features:
 **Endless Exploration:** With so much to see and do, you'll never run out of things to explore and create.<br />
 <br />
 Wunderlands Mod for Minetest is your passport to a world of adventure, creativity, and endless surprises. Dive in and start your journey today!
-
-
-
-
-## Development Cycle
+<br />
+<br />
+<h2 align="center"> ⚙️ Development Cycle ⚙️ </h2>
 There are three main git branches of Wunderlands:
 * `main`: stable branch, meant to be run by players and on servers. Focused on high stability.
 * `dev`: development branch, for testing new updates, finding bugs, and eliminating them before merging into the main branch.
 * `unstable`: experimental branch, a staging branch for additions to Wunderlands. For new code, updates, and fixes. Changes and commits should go here.
 * `hotfix`: hotfix branch, here are the fast patches that are run immediately if something needs a quick fix.
 <br />
+<br />
 
-## Minetest Engine Requirement
+<h2 align="center"> ✅ Minetest Engine Requirement ✅ </h2>
 
 Minetest engine version 5.2.0 or greater is currently recommended to run this game.
 <br />
+<br />
 
-## Credits and Acknowledgements
+<h2 align="center"> 🎖️ Credits and Acknowledgements 🎖️ </h2>
 
 A huge thanks to the Minetest community, core developers, and modders. 
 This game was built using the Minetest game engine, minetest_game, and the mods of many others.
@@ -104,16 +104,18 @@ Thank you to everyone who has contributed to this project, the mods, and the awe
 Designed by myself Goran Babic (Vibrantic). <br />
 If you have any questions you can read the FAQ or email me at <info@wunderlands.de>.
 <br />
+<br />
 
-## Authors
+<h2 align="center"> 🧍 Authors 🧍 </h2>
 
 - [@vibrantic](https://www.github.com/vibrantic)
 
-## License
+<h2 align="center"> 🖋️ License 🖋️ </h2>
 
 [MIT](https://choosealicense.com/licenses/mit/)
+<br />
+<br />
 
-
-## FAQ
+<h2 align="center"> ❔ FAQ ❔ </h2>
 **Coming Soon!**
 
